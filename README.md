@@ -26,7 +26,7 @@ Beside's programming, I enjoy eating food and traveling.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Java and React; 
+- 🌱 I’m currently learning Java; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@AkjderB](https://twitter.com/AkjderB);
 - ⚡ Fun fact: I love to make fun of my friends.Da!
